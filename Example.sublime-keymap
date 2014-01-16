@@ -1,0 +1,5 @@
+[
+  { "keys": ["ctrl+shift+t"], "command": "transpose_word" },
+	{ "keys": ["ctrl+t"], "command": "transpose_char" }
+]
+

@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Transpose Word",
+        "command": "transpose_word"
+    }
+    ,{
+        "caption": "Transpose Character",
+        "command": "transpose_char"
+    }
+]
